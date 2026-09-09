@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# Données Olist originales
+archive.zip
+*.zip
+
+# Fichiers temporaires
+*.tmp
+*.log
